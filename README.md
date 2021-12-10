@@ -1,2 +1,3 @@
 # sampleAppsForNativeMobileAutomation
-Repo containing sample native apps for mobile automation
+
+Repo containing sample (debug) native apps for mobile automation sourced from various public repositories.
